@@ -1,2 +1,4 @@
 # PlantDiseaseClassification
-PlantDiseaseClassification_AICTE_Cycle4_Week1
+Week-1 Submission/Training on Plant Disease Classification for AICTE Internship Cycle 4
+
+Dataset is taken from Kaggle: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
